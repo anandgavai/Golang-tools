@@ -1,5 +1,5 @@
 # Golang-tools
-# Following settings are important to make sure GO is working working
+# Following settings are important to make sure GO is working correctly
 
 ## change yoru .bashrc file to 
 
