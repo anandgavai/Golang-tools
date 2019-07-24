@@ -3,9 +3,9 @@
 
 ## change yoru .bashrc file to
 
-export GOROOT=/usr/local/go  # location where GO is installed
+export GOROOT=/usr/local/go  # This is the place where go gets insalled
 
-export GOPATH=$GOROOT/bin    # combines GOROOT and points to go execution code
+export GOPATH=$GOROOT/bin    # This is the place where you can create different projects and each project has 3 sub folder by default src, pkg and bin
 
 export PATH="/usr/local/bin:$GOROOT:$GOPATH:$PATH"
 
