@@ -28,3 +28,7 @@ My findings
 3. Inheritance of a structure for method declaration is done by passing structure argument to a function that is outside the structure
 
 4. variable types are mentioned after variable names
+
+## Dealing with Golang Modules follow this link here for a clear instruction
+
+https://golangbot.com/go-packages/
